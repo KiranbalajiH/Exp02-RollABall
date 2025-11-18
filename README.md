@@ -76,7 +76,8 @@ public class RollTheBall : MonoBehaviour
 ```
 ## Output:
 
-![alt text](<Screenshot 2025-08-26 095500-1.png>)
+<img width="1919" height="1029" alt="arvr ex 2" src="https://github.com/user-attachments/assets/7f77b62d-c5f7-40d4-8230-f20017ca6461" />
+
 
 ## Result:
 A 3D application to roll a ball in unity is developed
